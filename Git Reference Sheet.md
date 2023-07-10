@@ -49,6 +49,43 @@
 - `git push [remote_name] --delete [branch_name]`: Delete a remote branch.
 - `git fetch --prune`: Remove deleted branches from the local repository.
 
+# Kata: Commit local changes to a new branch 
+1. First, you need to ensure all your changes are staged for commit. If you haven't done so, use the command below:
+
+    ```bash
+    git add .
+    ```
+    `.` will stage all changes. If you only want to stage specific files, replace `.` with the file paths.
+
+2. Now you can create a new branch. This will not change any files in your working directory:
+
+    ```bash
+    git branch my-new-branch
+    ```
+    Replace `my-new-branch` with the name you want for your new branch.
+
+3. Switch to your new branch:
+
+    ```bash
+    git checkout my-new-branch
+    ```
+    Again, replace `my-new-branch` with the name of your new branch.
+
+4. Now you can commit your changes:
+
+    ```bash
+    git commit -m "Your commit message"
+    ```
+    Replace `Your commit message` with a description of the changes you made.
+
+5. Finally, if you want to push this new branch to your remote repository (for example, if you're using GitHub), you can use:
+
+    ```bash
+    git push origin my-new-branch
+    ```
+    Replace `my-new-branch` with the name of your new branch. This command will create the new branch on your remote repository and push your commit to it.
+
+Please remember to replace `my-new-branch` and `"Your commit message"` with the name of your branch and the commit message respectively. You should make your commit messages as descriptive and specific as possible, to help others (and future you) understand the changes that were made.
 # Git Add Flags
 
 | Command                 | Description                                                | Deleted Files        | Modified Files       | New Files            |
