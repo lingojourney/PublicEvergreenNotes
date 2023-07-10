@@ -48,3 +48,27 @@
 - `git branch -d [branch_name]`: Delete a branch.
 - `git push [remote_name] --delete [branch_name]`: Delete a remote branch.
 - `git fetch --prune`: Remove deleted branches from the local repository.
+
+# Git Add Flags
+
+| Command                 | Description                                                | Deleted Files        | Modified Files       | New Files            |
+|-------------------------|------------------------------------------------------------|----------------------|----------------------|----------------------|
+| `git add [file_name]`   | Add a specific file to the staging area.                   |                      | Modified             |                      |
+| `git add -A`            | Add all modified, deleted, and new files to the staging area. | Deleted              | Modified             | New                  |
+| `git add -u`            | Add modified and deleted files to the staging area (excluding untracked files). | Deleted              | Modified             |                      |
+| `git add .`             | Add all modified and new files to the staging area (excluding deleted files). |                      | Modified             | New                  |
+
+# Selected Mnemonics
+## to remember the `git add` commands
+
+1. `git add [file_name]`: "Add a specific file to the staging area."
+   - Mnemonic: "Add File, Be Specific" (AFBS)
+
+2. `git add -A`: "Add all modified, deleted, and new files to the staging area."
+   - Mnemonic: "Add All Changes" (AAC)
+
+3. `git add -u`: "Add modified and deleted files to the staging area (excluding untracked files)."
+   - Mnemonic: "Add Updated" (AU)
+
+4. `git add .`: "Add all modified and new files to the staging area (excluding deleted files)."
+   - Mnemonic: "Add Modified and New" (AMN)
