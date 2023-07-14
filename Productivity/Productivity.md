@@ -1,0 +1,15 @@
+# Screens
+- Microsoft To Do 
+	- and/or Motion 
+- Some study with me streams 
+- Cuckoo.Team 
+- Desktop/Laptop wallpaper - Set an inspiring or productivity-focused image as your wallpaper to remind you to stay focused. Quotes, nature scenes, vision boards, etc. can be made into wallpapers.
+- Ambient music - Have relaxing instrumental music, nature sounds or focus music playing softly in the background during study sessions. This provides a soothing audio environment. 
+- Desktop widgets - Widgets for things like calendar, reminders, habit trackers, etc. can be useful visual cues as you work on your desktop/laptop.
+- Digital wellbeing apps - Apps like Forest or Moment can be running silently to track your device usage, limit distractions, etc. and motivate you to focus.
+- Browser extensions - Extensions like Momentum, StayFocusd, etc. can change your new tab screen or restrict sites to keep you on task while studying.
+- Online study groups - Joining a Discord server, Facebook group or other online community for your course allows you to stay connected with peers while studying solo.
+	- Complice.co 
+- Aquariums/nature videos - Live streams of aquariums, nature scenes, etc. provide pleasant ambient animations as you work without being too distracting. 
+- Online radio - An online radio station, ambient mixes or chill music live stream gives you tunes without having to actively pick songs.
+- Desktop goals/vision board - Pin up visual reminders of your big-picture goals and motivations on your desktop wallpaper or in a frequently viewed file.

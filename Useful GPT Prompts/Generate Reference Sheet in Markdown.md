@@ -1,0 +1,2 @@
+- Please use British spelling and grammar.
+- Combine the above into a single markdown file for Obsidian.`
