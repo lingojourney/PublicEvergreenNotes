@@ -1,8 +1,13 @@
-# Screens
+- Habit Tracker 
 - Microsoft To Do 
 	- and/or Motion 
 - Some study with me streams 
 - Cuckoo.Team 
+- Learning
+	- Napkin.one
+	- ReadWise 
+- Motivational Slideshow 
+	- 
 - Desktop/Laptop wallpaper - Set an inspiring or productivity-focused image as your wallpaper to remind you to stay focused. Quotes, nature scenes, vision boards, etc. can be made into wallpapers.
 - Ambient music - Have relaxing instrumental music, nature sounds or focus music playing softly in the background during study sessions. This provides a soothing audio environment. 
 - Desktop widgets - Widgets for things like calendar, reminders, habit trackers, etc. can be useful visual cues as you work on your desktop/laptop.
