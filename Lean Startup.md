@@ -1,0 +1,10 @@
+- Lean Startup is a methodology for developing businesses and products that aims to minimize waste and maximize learning.
+- The key principle of Lean Startup is the Build-Measure-Learn feedback loop, which involves quickly building a minimum viable product (MVP), measuring its performance, and learning from the feedback received.
+- The Lean Startup approach encourages entrepreneurs to test their assumptions and hypotheses through experiments and validated learning.
+- It emphasizes the importance of customer feedback and engagement in the product development process.
+- Lean Startup promotes the idea of pivoting, which means adjusting the product or business strategy based on the insights gained from customer feedback and market validation.
+- The Lean Startup methodology can be applied to both startups and existing companies looking to innovate and launch new products.
+- It advocates for iterative and incremental development, allowing businesses to make small, frequent changes rather than large, risky ones.
+- Lean Startup encourages a culture of continuous improvement and learning, promoting a mindset of experimentation and adaptation.
+- It emphasizes the importance of data-driven decision making, using metrics and analytics to guide product development and business strategy.
+- The Lean Startup approach has gained popularity in the startup community and has been adopted by many successful companies.
