@@ -1,0 +1,4 @@
+﻿---
+capital: San Marino
+---
+

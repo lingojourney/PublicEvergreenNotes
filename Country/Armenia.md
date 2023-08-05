@@ -1,0 +1,4 @@
+---
+capital: Yerevan
+---
+
