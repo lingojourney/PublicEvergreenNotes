@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter
-searchTarget: habits.['go to the gym'].achieved
+searchTarget: habits.go gym.achieved
 datasetName: Gym 
 month:
 	startWeekOn: 'Mon'
@@ -16,6 +16,11 @@ month:
 ```tracker
 searchType: frontmatter
 searchTarget: habits.go-to-the-gym.achieved
+month:
+```
+```tracker
+searchType: frontmatter
+searchTarget: habits.use focusmate.achieved
 month:
 ```
 
