@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter
-searchTarget: habits.go gym.achieved
+searchTarget: habits.go to the gym.achieved
 datasetName: Gym 
 month:
 	startWeekOn: 'Mon'
