@@ -1,0 +1,5 @@
+[[Plato]]
+
+In many religious, philosophical, and [mythological](https://en.wikipedia.org/wiki/Myth "Myth") traditions there is belief in a soul as the **incorporeal** [essence](https://en.wikipedia.org/wiki/Essence "Essence") of a living being.[[1]](https://en.wikipedia.org/wiki/Soul#cite_note-1) Soul or [psyche](https://en.wikipedia.org/wiki/Psyche_(psychology) "Psyche (psychology)") ([Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek"): ψυχή _psykhḗ_, of ψύχειν _psýkhein_, "to breathe", cf. [Latin](https://en.wikipedia.org/wiki/Latin "Latin") 'anima') comprises the mental abilities of a living being: reason, character, feeling, consciousness, [**qualia**](https://en.wikipedia.org/wiki/Qualia "Qualia"), memory, perception, thinking, etc. Depending on the philosophical system, a soul can either be [mortal](https://en.wikipedia.org/wiki/Mortality_of_the_soul "Mortality of the soul") or [immortal](https://en.wikipedia.org/wiki/Immortality_of_the_soul "Immortality of the soul").[[2]](https://en.wikipedia.org/wiki/Soul#cite_note-2)
+
+[[qualia]]
