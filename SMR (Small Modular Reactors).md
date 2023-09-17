@@ -1,0 +1,7 @@
+Small Modular Reactors (SMR) are a type of nuclear fission reactor which are smaller in size (300 MWe or less) compared to typical nuclear reactors. These reactors are manufactured at a plant and brought to a site to be assembled. They offer potential advantages such as lower initial investment, scalability, and siting flexibility at locations unable to accommodate more traditional larger reactors. They also have potential for enhanced safety features and reduced nuclear waste.
+
+SMRs can play a crucial role in addressing the energy security, energy poverty and climate change challenges of the world. They are considered ideal for both developed countries that may wish to replace or supplement their existing fleet of larger nuclear power plants, and developing countries that may lack the infrastructure and investment capacity for larger scale nuclear power projects.
+
+This technology is still in development stage with few operational examples existing currently. However, many designs are under advanced stages of development and expected to be commercially available by 2030 globally.
+
+In conclusion, SMRs represent an important innovation in nuclear technology that could reshape the future of the industry by making it more accessible, safer, and more economically viable.
