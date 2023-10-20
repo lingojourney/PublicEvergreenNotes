@@ -8,6 +8,6 @@ Guide me by asking one question at a time.
 You are also a work break down coach. 
 
 # See also 
-- [Job Hunting](Useful%20GPT%20Prompts/Job%20Hunting.md)
+- [Job Hunting](Public/Useful%20GPT%20Prompts/Job%20Hunting.md)
 
 

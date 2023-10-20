@@ -10,7 +10,7 @@ To install a package with yarn: `yarn add package-name --dev`
 
 You can learn more about Yarn on their official website [2](https://yarnpkg.com/) or on their introduction page [3](https://yarnpkg.com/getting-started/).
 
-## Yarn vs [[NPM]]
+## Yarn vs [[Public/NPM]]
 Yarn has several advantages over npm. [Yarn supports features like parallel installation and Zero-Install which results in better performance](https://afteracademy.com/blog/npm-vs-yarn/)[1](https://afteracademy.com/blog/npm-vs-yarn/). [It is several times faster than npm as it downloads the packages at incredible speed](https://waverleysoftware.com/blog/yarn-vs-npm/)[2](https://waverleysoftware.com/blog/yarn-vs-npm/). [Yarn caches every package it has downloaded to avoid re-downloading it later when the need arises](https://waverleysoftware.com/blog/yarn-vs-npm/)[2](https://waverleysoftware.com/blog/yarn-vs-npm/). [Yarn offers stability, providing lock down versions of installed packages](https://waverleysoftware.com/blog/yarn-vs-npm/)[2](https://waverleysoftware.com/blog/yarn-vs-npm/).
 
 Even though Yarn has some advantages, the speeds of Yarn and npm, in their last versions, are pretty comparable. So we can’t define a clean winner here [3](https://www.sitepoint.com/yarn-vs-npm/).
