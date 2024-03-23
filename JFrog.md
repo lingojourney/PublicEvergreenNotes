@@ -1,0 +1,1 @@
+- more generic than SonarType Nexus 

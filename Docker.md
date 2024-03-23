@@ -1,0 +1,5 @@
+- [[Chocolatey]]
+	- `choco install docker-desktop` 
+- 
+- .
+- .
