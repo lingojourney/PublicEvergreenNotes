@@ -1,4 +1,4 @@
-In Java, a clamp function is used to ensure that a value falls within a specified range. If the value is below the minimum limit, it’s set to the minimum; if it’s above the maximum limit, it’s set to the maximum. Otherwise, the value remains unchanged.
+.In Java, a clamp function is used to ensure that a value falls within a specified range. If the value is below the minimum limit, it’s set to the minimum; if it’s above the maximum limit, it’s set to the maximum. Otherwise, the value remains unchanged.
 
 Java 21 introduces the `clamp()` method in the Math class, which simplifies the process of clamping a value. Here’s an example of how to use the `clamp()` method in Java 21:
 
