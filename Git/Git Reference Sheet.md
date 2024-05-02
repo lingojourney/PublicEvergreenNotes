@@ -16,6 +16,7 @@
 - `git checkout [branch_name]`: Switch to a different branch.
 - `git merge [branch_name]`: Merge changes from another branch.
 - `git rebase [branch_name]`: Reapply commits on top of another branch.
+- `git checkout -b [branch_name]`: Create a new branch and switch to it immediately.  
 
 ## Remote Repositories
 
