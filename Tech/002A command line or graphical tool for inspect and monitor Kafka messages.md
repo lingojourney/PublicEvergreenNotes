@@ -19,7 +19,7 @@ These tools can help you effectively monitor and inspect messages in your Kafka 
 
 Source: Conversation with Bing, 12/04/2024
 (1) Kafka Command-Line Interface (CLI) Tools - Confluent. https://docs.confluent.io/kafka/operations-tools/kafka-tools.html.
-(2) Explorer :: Kafka Magic Tool. https://www.kafkamagic.com/.
+(2) Explorer : Kafka Magic Tool. https://www.kafkamagic.com/.
 (3) How to view kafka message? - Stack Overflow. https://stackoverflow.com/questions/44239027/how-to-view-kafka-message.
 (4) Kafka monitoring: Tutorials and best practices - Redpanda. https://redpanda.com/guides/kafka-performance/kafka-monitoring.
 (5) Kafka Tutorial: Using Kafka from the command line - Cloudurable. http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html.

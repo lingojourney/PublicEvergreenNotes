@@ -36,7 +36,7 @@ Source: Conversation with Bing, 12/04/2024
 (1) Hazelcast Command-Line Client. https://docs.hazelcast.com/hazelcast/5.3/clients/clc.
 (2) Kafka Command-Line Interface (CLI) Tools - Confluent. https://docs.confluent.io/kafka/operations-tools/kafka-tools.html.
 (3) How to view kafka message? - Stack Overflow. https://stackoverflow.com/questions/44239027/how-to-view-kafka-message.
-(4) Explorer :: Kafka Magic Tool. https://www.kafkamagic.com/.
+(4) Explorer : Kafka Magic Tool. https://www.kafkamagic.com/.
 (5) Kafka monitoring: Tutorials and best practices - Redpanda. https://redpanda.com/guides/kafka-performance/kafka-monitoring.
 (6) Kafka Tutorial: Using Kafka from the command line - Cloudurable. http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html.
 (7) hazelcast/hazelcast-commandline-client: Home of Hazelcast CLC - GitHub. https://github.com/hazelcast/hazelcast-commandline-client.
