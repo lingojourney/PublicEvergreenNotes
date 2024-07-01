@@ -1,1 +1,1 @@
-I love his violin music. 
+I love his violin music, especially by [[Bach]]
