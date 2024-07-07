@@ -1,6 +1,6 @@
 ## commands 
 
-![[Git/branch]]
+![[branch 1]]
 ### stash 
 
 `git stash` is a command that allows you to temporarily save changes that you have made to your working directory but do not want to commit yet. This is useful when you are in the middle of working on something, and need to switch branches or attend to some other task.
