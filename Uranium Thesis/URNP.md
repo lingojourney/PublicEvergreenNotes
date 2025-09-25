@@ -1,4 +1,8 @@
-Certainly! The **Sprott Uranium Miners UCITS ETF (URNP)** provides exposure to the performance of companies involved in mining, exploration, development, and production of uranium. Additionally, it includes companies that hold physical uranium and own uranium royalties¹². Here are some key details about URNP:
+---
+aliases:
+  - HANETF ICAV SPROTT URANIUM MINERS UCITS ETF
+---
+The **Sprott Uranium Miners UCITS ETF (URNP)** provides exposure to the performance of companies involved in mining, exploration, development, and production of uranium. Additionally, it includes companies that hold physical uranium and own uranium royalties¹². Here are some key details about URNP:
 
 - **Fund Summary**:
     - **Ticker**: URNP:LSE:GBX
@@ -7,11 +11,12 @@ Certainly! The **Sprott Uranium Miners UCITS ETF (URNP)** provides exposure to t
     - **Fund Size**: £264.19 million (as of May 31, 2024)
     - **Ongoing Charge**: 0.85%
     - **Top Holdings** (as a percentage of portfolio):
-        - Cameco Corp (CCO:TOR): 17.98%
-        - NAK Kazatomprom AO (KAP:LSE): 14.50%
-        - Sprott Physical Uranium Trust (U.UN:TOR): 11.70%
-        - CGN Mining Co Ltd (1164:HKG): 7.28%
-        - Denison Mines Corp (DML:TOR): 5.10%
+        - NAK ==[[Kazatomprom]]== AO (KAP:LSE): 14.65%
+        - Cameco Corp (CCO:TOR): ==13.86%==
+        - Sprott Physical Uranium Trust (U.UN:TOR): ==13.11%==
+        - CGN Mining Co Ltd (1164:HKG): ==5.88%==
+        - Denison Mines Corp (DML:TOR): 4.78%
+        - [[YCA]]: ==4.10%==
     - **Sector Weightings**:
         - Energy: 92.68%
         - Basic Materials: 7.32%

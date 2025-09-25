@@ -1,3 +1,5 @@
+- HeyGen 
+- ElevenLabs 
 - Jenni.ai 
 - WisdomPlan 
 - 
